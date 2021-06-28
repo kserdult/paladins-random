@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/paladins-random/static/css/main.4a0b87fa.chunk.css",
+    "main.css": "/paladins-random/static/css/main.bdc59e43.chunk.css",
     "main.js": "/paladins-random/static/js/main.c463b196.chunk.js",
     "main.js.map": "/paladins-random/static/js/main.c463b196.chunk.js.map",
     "runtime-main.js": "/paladins-random/static/js/runtime-main.a489dcfb.js",
@@ -10,13 +10,13 @@
     "static/js/3.aef5a8e2.chunk.js": "/paladins-random/static/js/3.aef5a8e2.chunk.js",
     "static/js/3.aef5a8e2.chunk.js.map": "/paladins-random/static/js/3.aef5a8e2.chunk.js.map",
     "index.html": "/paladins-random/index.html",
-    "static/css/main.4a0b87fa.chunk.css.map": "/paladins-random/static/css/main.4a0b87fa.chunk.css.map",
+    "static/css/main.bdc59e43.chunk.css.map": "/paladins-random/static/css/main.bdc59e43.chunk.css.map",
     "static/js/2.eb56dacf.chunk.js.LICENSE.txt": "/paladins-random/static/js/2.eb56dacf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a489dcfb.js",
     "static/js/2.eb56dacf.chunk.js",
-    "static/css/main.4a0b87fa.chunk.css",
+    "static/css/main.bdc59e43.chunk.css",
     "static/js/main.c463b196.chunk.js"
   ]
 }
